@@ -1,0 +1,27 @@
+div {
+	border: 1px solid black;
+	width: 200px;
+	height: 100px;
+	background-color: blue;
+}
+
+#greenDiv {
+	border: 1px solid black;
+	width: 200px;
+	height: 100px;
+	background-color: green;
+}
+
+#yellowDiv {
+	border: 1px solid black;
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.group1 {
+	border: 1px solid black;
+	width: 200px;
+	height: 100px;
+	background-color: #0fffff;
+}
